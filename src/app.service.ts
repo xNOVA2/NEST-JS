@@ -5,8 +5,7 @@ export class AppService {
 
   root() {
     return {
-      message: 'Hello World!',
-      date: new Date()
+      welcome: 'Welcome to the Nest js!',
     }
   }
 }
